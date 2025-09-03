@@ -35,9 +35,9 @@ Thực hiện kiểm thử hệ thống đặt vé tàu bằng cách xây dựng
 
 ## 📂 Cấu trúc dự án
 
-*Bạn có thể chèn hình ảnh cấu trúc dự án ở đây*
+<img width="399" height="278" alt="image" src="https://github.com/user-attachments/assets/18e9673a-bdc4-4420-9c2d-c68050529a2e" />
+<img width="547" height="390" alt="image" src="https://github.com/user-attachments/assets/733b7051-10b0-4558-8d73-b4f694838c5e" />
 
----
 
 ## 🧑 Người thực hiện
 
