@@ -1,49 +1,50 @@
-Ứng Dụng Kiểm Thử Module Quản Lý Đặc Sản
-🌿 Test_QuanLyDacSan
-📜 Mục Tiêu Dự Án
-Dự án này tập trung vào việc kiểm thử module "Quản lý đặc sản" - một phân hệ cốt lõi trong hệ thống quản lý nông nghiệp của công ty INOTEV. Mục tiêu chính là đánh giá, xác minh tính đúng đắn, hiệu quả, chất lượng và khả năng thân thiện với người dùng của module.
+# 🚂 TESTCASES_RAILWAY_JAVA
 
-Thông qua quá trình kiểm thử, dự án nhằm:
+---
 
-🕵️ Phát hiện và khắc phục kịp thời các lỗi còn tồn tại.
+## 🎯 Mục tiêu dự án
 
-✅ Đảm bảo module hoạt động ổn định và chính xác.
+Thực hiện kiểm thử hệ thống đặt vé tàu bằng cách xây dựng các **test case viết bằng JavaScripts**, giúp:
+- Đảm bảo đúng yêu cầu chức năng
+- Phát hiện lỗi trước khi triển khai
+- Nâng cao chất lượng phần mềm
 
-✨ Góp phần nâng cao chất lượng tổng thể của hệ thống, mang lại trải nghiệm tốt nhất cho người dùng cuối.
+---
 
-🔬 Đối Tượng & Phạm Vi Nghiên Cứu
-Đối tượng: Module "Quản lý đặc sản" trong hệ thống quản lý nông nghiệp của công ty INOTEV.
+## 🔬 Phạm vi dự án
 
-Phạm vi: Kiểm thử toàn diện các khía cạnh:
+- Kiểm thử các chức năng chính: đăng nhập, đăng ký, đặt vé, quản lý tài khoản,....
+- Viết test case mô tả đầu vào - thao tác - kết quả mong đợi
+- Thực thi kiểm thử, ghi nhận kết quả và lỗi phát hiện được
 
-Chức năng
+---
 
-Giao diện người dùng (UI)
+## 🛠️ Công cụ & công nghệ sử dụng
 
-Bảo mật
+| Mục đích | Công cụ, ngôn ngữ sử dụng |
+| :--- | :--- |
+| **Thiết bị** | Laptop |
+| **Trình duyệt** | Chrome |
+| **Hệ điều hành** | Windows 11 |
+| **Ngôn ngữ lập trình** | JavaScript |
+| **Phần mềm kiểm thử** | IntelliJ IDEA |
+| **Framework kiểm thử** | TestNG |
+| **Thư viện hỗ trợ kiểm thử UI** | Selenium |
 
-API
+---
 
-🛠️ Môi Trường & Công Cụ
-Thiết bị: Laptop
+## 📂 Cấu trúc dự án
 
-Hệ điều hành: Windows 11
+*Bạn có thể chèn hình ảnh cấu trúc dự án ở đây*
 
-Trình duyệt: Chrome
+---
 
-Ngôn ngữ lập trình: JavaScript
+## 🧑 Người thực hiện
 
-Phần mềm kiểm thử: IntelliJ IDEA
+- Khánh Huyền
 
-Framework kiểm thử: TestNG
+---
 
-Thư viện hỗ trợ UI: Selenium
+## ✅ Kết luận
 
-📂 Cấu Trúc Dự Án
-Hãy chèn hai hình ảnh về cấu trúc dự án của bạn vào đây.
-
-👤 Người Thực Hiện
-Khánh Huyền
-
-✅ Kết Luận
-Dự án đã thành công xây dựng một bộ test scripts có tính bao phủ cao, hỗ trợ phát hiện lỗi hiệu quả và tăng cường độ tin cậy của module "Quản lý đặc sản". Việc sử dụng JavaScript với IntelliJ IDEA giúp tự động hóa một phần quy trình kiểm thử, sẵn sàng cho việc tích hợp CI/CD nếu cần mở rộng trong tương lai.
+Dự án kiểm thử đã xây dựng được một bộ test scripts có tính bao phủ cao, hỗ trợ phát hiện lỗi hiệu quả và tăng độ tin cậy của module Quản lý đặc sản trong hệ thống quản lý nông nghiệp. Việc áp dụng JavaScripts trong môi trường IntelliJ IDEA giúp có thể tự động hóa một phần quy trình kiểm thử, sẵn sàng tích hợp CI/CD nếu cần mở rộng trong tương lai.
