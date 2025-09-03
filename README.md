@@ -1,21 +1,17 @@
-# 🚂 TESTCASES_RAILWAY_JAVA
+# 🌿 TEST_QUANLYDACSAN
 
 ---
 
 ## 🎯 Mục tiêu dự án
 
-Thực hiện kiểm thử hệ thống đặt vé tàu bằng cách xây dựng các **test case viết bằng JavaScripts**, giúp:
-- Đảm bảo đúng yêu cầu chức năng
-- Phát hiện lỗi trước khi triển khai
-- Nâng cao chất lượng phần mềm
+Đề tài nhằm hướng đến việc kiểm thử module **“Quản lý đặc sản”** - một phân hệ quan trọng trong hệ thống quản lý nông nghiệp và đảm bảo chất lượng cho hệ thống. Mục tiêu chính là đánh giá và xác minh tính đúng đắn, hiệu quả, chất lượng và khả năng thân thiện với người dùng của module này, qua đó phát hiện kịp thời và khắc phục các lỗi còn tồn tại.
 
 ---
 
-## 🔬 Phạm vi dự án
+## 🔬 Đối tượng và phạm vi nghiên cứu
 
-- Kiểm thử các chức năng chính: đăng nhập, đăng ký, đặt vé, quản lý tài khoản,....
-- Viết test case mô tả đầu vào - thao tác - kết quả mong đợi
-- Thực thi kiểm thử, ghi nhận kết quả và lỗi phát hiện được
+- **Đối tượng:** Module “Quản lý đặc sản” trong hệ thống quản lý nông nghiệp của công ty INOTEV.
+- **Phạm vi:** Kiểm thử các chức năng, kiểm thử về mặt giao diện, bảo mật, kiểm thử API cho module “Quản lý đặc sản” trong hệ thống quản lý nông nghiệp.
 
 ---
 
